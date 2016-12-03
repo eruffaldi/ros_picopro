@@ -1,0 +1,3 @@
+[submodule "libam7xxx"]
+	path = libam7xxx
+	url = https://git.ao2.it/libam7xxx.git/
